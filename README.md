@@ -11,7 +11,7 @@ The purpose of this project is help Steve analyze DAQO and other funds performan
 
 ## Results
 Two years return invesment comparison shows that in 2017 out of 12 stocks, only 1 has a negative return value. In 2018 majority of the stocks went down drastically. 2018 stocks performed poorly compared to 2017. Refactored codes was used on this challenge. The first code was only to be able to get data for a  specific year. Refactored codes we now have a choice to get either 2017 or 2018 data in one script. We changed the internal structure but did not changed the external structure.
-![All_Stocks_2017](images/https://user-images.githubusercontent.com/80075982/112737198-d70d7280-8f15-11eb-9042-eec7a02fcf52.png)
+![All_Stocks_2017](https://user-images.githubusercontent.com/80075982/112774805-a7cb3400-8fef-11eb-81bb-72e99b1a94a4.png)
 
 ![All_Stocks_2018](https://user-images.githubusercontent.com/80075982/112737206-e2f93480-8f15-11eb-931a-59b58bc9402e.png)
 
