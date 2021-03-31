@@ -22,7 +22,7 @@ Two years return invesment comparison shows that in 2017 out of 12 stocks, only 
 ### Advantage and disadvantage of regfactoring code
 - Refactoring code is to improve internal structure of existing program's code not affecting the external structure. It will allow you to modify code that will cater or will work for your needs and it is eaier to read and makes debugging process go smoothly. It reduces the chance of system to break during restructuring. 
 
--Refactoring code is not always a good choice to do. Refactoring code takes time. You need time to test the validity of codes. It slows down the development and prone to defects.
+- Refactoring code is not always a good choice to do. Refactoring code takes time. You need time to test the validity of codes. It slows down the development and prone to defects.
 
 ### Advantage and disadvantage of the original and regfactored code
 - Original code is step by step process, longer script, and sometimes manual counting or visualization is required. Refactored codes are easy to read and not a lot of scripts to write. 
